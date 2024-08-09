@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaFra7
-- 👀 I’m interested in Python, and really all things code!
-- 🌱 I’m currently learning Python, CSS, and HTML
-- 💞️ I’m looking to collaborate on Python projects!
+- 👀 I’m interested in Python/C#, and really all things code!
+- 🌱 I’m currently learning Python, C#, CSS, and HTML
+- 💞️ I’m looking to collaborate on Python or C# projects!
 - 📫 How to reach me: nathan.francis434@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Started my coding journey March 1st, 2024 after being laid off. 
